@@ -4,7 +4,7 @@ Bot criado para enviar mensagens através de uma lib chamada `whatsapp-web.js`
 
 ---
 
-# # Funcionalidades
+# Funcionalidades
 
 - Definir a mensagem a ser enviada;
 - Definir um número de telefone com DDD e os determinados dígitos;
