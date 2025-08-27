@@ -1,19 +1,20 @@
 # WhatsApp: Message-Bot
 
-Projeto de um bot capaz de enviar mensagens automatizadas via WhatsApp, utilizando a biblioteca `whatsapp-web.js`. Ele se conecta ao WhatsApp Web e permite enviar mensagens para contatos específicos. As mensagens a serem enviadas são definidas no próprio código.
+Project for a bot capable of sending automated messages on WhatsApp, using `whatsapp-web-js` library. It connects to WhatsApp Web and allows sending messages to specific contacts. The messages to be sent are defined directly in the code.
 ---
 
-# Funcionalidades
+# Features
 
-- Definir a mensagem a ser enviada;
-- Definir um número de telefone com DDD e os determinados dígitos;
+- Set the message to be sent;
+- Define a phone number with country and area codes;
+- Automatically connection to WhatsApp Web;
 - Conectar automaticamente ao WhatsApp Web
 - Envio rápido e programável.
 
 ---
 
-## Tecnologias Usadas
+## Techs
 
-- WhatsApp-Web.js (https://wwebjs.dev/) - Lib para integração com WhatsApp Web.
-- JavaScript - Linguagem principal do projeto.
-- Node.js - Ambiente de execução.
+- WhatsApp-Web.js (https://wwebjs.dev/) - Lib for WhatsApp Web integration.
+- JavaScript - Main programming language of the project.
+- Node.js - Runtime environment.
